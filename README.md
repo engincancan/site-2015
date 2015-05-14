@@ -1,3 +1,28 @@
+
+# OttawaJS Site revamp 2015
+Starting point for new Site is from [Start Bootstrap Agency](http://startbootstrap.com/template-overviews/agency/)
+
+The upstream repo has a master branch which is not in sync with the gh-pages branch. So not sure what to do to regenerate css (from less)
+
+## TODO 
+* Colors: swap yellow (for OttawaJS logo yellow)
+    * #fed136 -> #f7df1e in css/agency.css, and less/variable.less
+    * #fec503 ->
+* Swap header-bg.jpg 
+    * source: [page](http://ottawadailyphotos.blogspot.ca/2014/05/a-view-for-malak-karsh.html) 
+    * source:[image](http://2.bp.blogspot.com/-JYzGRpIQJlI/U3q2rzEPMtI/AAAAAAAAfFY/Phr_2ENQf8U/s1600/karsh.jpg)
+* Change sections (document mapping)
+* remove contact
+* remove unused js (contact form support)
+
+## Regenerate css from less
+    
+    npm i less
+    ./node_modules/.bin/lessc less/agency.less css/agency.css
+
+-----
+Original Readme:
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
