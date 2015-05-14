@@ -5,15 +5,18 @@ Starting point for new Site is from [Start Bootstrap Agency](http://startbootstr
 The upstream repo has a master branch which is not in sync with the gh-pages branch. So not sure what to do to regenerate css (from less)
 
 ## TODO 
-* Change sections (document mapping)
-* remove unused js (contact form support)
 * Swap header-bg.jpg 
     * source: [page](http://ottawadailyphotos.blogspot.ca/2014/05/a-view-for-malak-karsh.html) 
     * source:[image](http://2.bp.blogspot.com/-JYzGRpIQJlI/U3q2rzEPMtI/AAAAAAAAfFY/Phr_2ENQf8U/s1600/karsh.jpg)
 * Footer links
 
 ## DONE
+* Change sections (document mapping)
+  * Services -> Contact
+  * Portfolio -> Sponsors
+  * About ant Team are unchanged
 * Remove contact section
+* Remove unused js (contact form support)
 * Colors: swap yellow (for OttawaJS logo yellow)
     * #fed136 -> #f7df1e in css/agency.css, and less/variable.less
     * #fec503 ->
