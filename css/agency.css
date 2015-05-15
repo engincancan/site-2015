@@ -230,12 +230,11 @@ header {
   color: white;
 }
 header .intro-text {
-  padding-top: 100px;
-  padding-bottom: 50px;
+  padding-top: 80px;
+  padding-bottom: 40px;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style: italic;
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
@@ -243,6 +242,8 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
+  text-transform: none;
+  font-style: italic;
   font-weight: 700;
   font-size: 50px;
   line-height: 50px;
@@ -250,12 +251,11 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 150px;
+    padding-bottom: 100px;
   }
   header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-style: italic;
     font-size: 40px;
     line-height: 40px;
     margin-bottom: 25px;
@@ -263,6 +263,8 @@ header .intro-text .intro-heading {
   header .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
+    text-transform: none;
+    font-style: italic;
     font-weight: 700;
     font-size: 75px;
     line-height: 75px;
