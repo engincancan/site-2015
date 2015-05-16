@@ -6,20 +6,21 @@ The upstream repo has a master branch which is not in sync with the gh-pages bra
 
 ## TODO 
 * Realign sponsor layout
+* Sponsor modals
+* Swap Team and About sections
+* Better texts: Name frameworks, If you read this far, twee this page, Organizers and you!
+* Social links for about, sponsors and organizers
+* Footer links
+* permission for karsh image?
+
+## DONE
+* Add email:info to Contact
+* Rename Contact to:  About Us, or Next Step, Reach Out, Join Us
 * Refine header-bg.jpg 
     * source: [page](http://ottawadailyphotos.blogspot.ca/2014/05/a-view-for-malak-karsh.html) 
     * source:[image](http://2.bp.blogspot.com/-JYzGRpIQJlI/U3q2rzEPMtI/AAAAAAAAfFY/Phr_2ENQf8U/s1600/karsh.jpg)
     * Permission
     * Gimp asset
-* Add email:info to Contact
-* Sponsor images/text/modals
-* Rename Contact to:  About Us, or Next Step, Reach Out, Join Us
-* Swap Team and About sections
-* Better texts: Name frameworks, If you read this far, twee this page, Organizers and you!
-* Social links for sponsors and organizers
-* Footer links
-
-## DONE
 * Change sections (document mapping)
   * Services -> Contact
   * Portfolio -> Sponsors
