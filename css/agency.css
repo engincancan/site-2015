@@ -306,6 +306,11 @@ section h3.section-subheading {
     padding: 150px 0;
   }
 }
+@media (max-width: 420px) {
+  h4.service-heading {
+    font-size: 14px;
+  }
+}
 .service-heading {
   margin: 15px 0;
   text-transform: none;
