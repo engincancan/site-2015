@@ -354,7 +354,7 @@ section h3.section-subheading {
 }
 #portfolio .portfolio-item .portfolio-caption {
   max-width: 200px;
-  min-height: 125px;
+  min-height: 132px;
   margin: 0 auto;
   /*background-color: white;*/
   text-align: center;
@@ -543,6 +543,12 @@ section h3.section-subheading {
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;
+  }
+}
+@media (max-width: 420px) {
+  .team-member h4 {
+    font-size: 14px;
+    min-height: 30px;
   }
 }
 .team-member {
