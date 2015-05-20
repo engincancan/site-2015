@@ -5,14 +5,14 @@ Starting point for new Site is from [Start Bootstrap Agency](http://startbootstr
 The upstream repo has a master branch which is not in sync with the gh-pages branch. So not sure what to do to regenerate css (from less)
 
 ## TODO 
-* Logo svg->png  (+upstream)
-* site icon
-* Social links for organizers
 * Sponsor modals - turn off?
 * React
 * check license for karsh image?
 
 ## DONE
+* Logo svg->png  (+upstream)
+* site icon
+* Social links for organizers
 * Footer links
 * Social links for about, sponsors
 * Better texts: Name frameworks, If you read this far, twee this page, Organizers and you!
